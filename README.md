@@ -39,7 +39,7 @@ This application supports essential payment wallet features like secure user aut
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/digital-payment-wallet.git
+   git clone https://github.com/shreyakmukherjee/Digital_Payment_App_Wallet.git
    cd digital-payment-wallet
    ```
 
